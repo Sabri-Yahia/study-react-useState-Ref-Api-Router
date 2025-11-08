@@ -37,7 +37,7 @@ export default function ApiPage() {
     <section className="py-10">
       <div className="container px-6 lg:px-8 mx-auto">
         <div className="mb-4">
-          <Link to="/dashboard" className="btn btn-info">
+          <Link to="/" className="btn btn-info">
             Go to Dashboard
           </Link>
         </div>
